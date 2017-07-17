@@ -1,0 +1,49 @@
+.container {
+  text-align: center;
+}
+
+.well {
+  width: 55%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+h3 {
+  padding: 10px;
+}
+
+.author {
+  text-align: right;
+}
+
+.quote {
+  font-size: 50px;
+}
+
+.jumbotron {
+  margin-top: 75px;
+  background: #bae0da;
+}
+
+body {
+  background-image: url("http://www.wsof.org/wp-content/uploads/background-website-4-2014-wallpaper-background-and-wallpaper.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #526b93;
+  text-align: center;
+  color: black;
+}
+
+#link {
+  color: black;
+}
